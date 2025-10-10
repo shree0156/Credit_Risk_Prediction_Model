@@ -32,6 +32,9 @@ Run the following code locally,
 in cmd prompt
 make sure u have saved the above files i.e app.py, credit_model.pkl, and augmented_credit_data.csv in a folder.
 
+<img width="1722" height="1022" alt="app credit" src="https://github.com/user-attachments/assets/a29e3179-d77c-4ce1-915c-9fee08bed206" />
+
+
 ### Usage
 Enter borrower details in the sidebar (income, loan amount, interest rate, etc.).
 
