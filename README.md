@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-red?style=flat-square)
 ![CTGAN](https://img.shields.io/badge/CTGAN-Synthetic%20Data-purple?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-Live%20App-ff4b4b?style=flat-square&logo=streamlit)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red?style=flat-square&logo=streamlit)](https://shree0156-credit-risk-prediction-model-app-nunrbe.streamlit.app/)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML%20Pipeline-orange?style=flat-square)
 
 > Predicts loan default risk in real time using an XGBoost classifier trained on CTGAN-augmented data — achieving ROC-AUC 0.98 with a +17% recall improvement on the minority class.
