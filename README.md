@@ -12,7 +12,7 @@
 
 ## The Problem
 
-Credit default prediction suffers from severe class imbalance — defaulters are a small minority of borrowers, so standard models learn to ignore them. Missing a true defaulter is the most expensive error a lender can make. This project directly tackles that imbalance using synthetic data generation, not just oversampling.
+Credit default prediction suffers from severe class imbalance — non defaulters are a small minority of borrowers, so standard models learn to ignore them. Missing a true defaulter is the most expensive error a lender can make. This project directly tackles that imbalance using synthetic data generation, not just oversampling.
 
 ---
 
